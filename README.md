@@ -1,6 +1,6 @@
 # docker
 <br/>
-$ git clone https://github.com/SV-Team-B/docker.git
+$ git clone https://github.com/SVTeamJ/docker.git
 <br/>
 $ git submodule update --recursive --remote --init
 <br/>
